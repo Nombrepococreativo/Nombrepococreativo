@@ -7,7 +7,7 @@
   * C++
   * Rust
 - 🤝 I'm not looking collaborations for the moment, but consideration in case something comes up is always appreciated.
-- 📨 Contact me on. namedotredacted@duck.com
+- 📨 Contact me on: namedotredacted@duck.com
 <!---
 Nombrepococreativo/Nombrepococreativo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
